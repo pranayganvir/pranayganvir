@@ -25,8 +25,6 @@ Welcome to my GitHub profile! I'm Pranay Ganvir, a Data Science enthusiast with 
 ## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=pranayganvir&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## Trophie Stats
-![](https://github-profile-trophy.vercel.app/?username=pranayganvir&theme=onedark)
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranayganvir9730@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-ganvir-6a0a6b215/)
