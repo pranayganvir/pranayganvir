@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Pranay Ganvir, a Data Science enthusiast with 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pranayganvir&theme=dark&hide_border=true&repo=gender-recognition-flask)](https://github.com/pranayganvir/gender-recognition-flask) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pranayganvir&theme=dark&hide_border=true&repo=pneumonia-Detection)](https://github.com/pranayganvir/pneumonia-Detection)
 
 ## IDE
-[ ![](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)(https://github.com/pranayganvir)]
+[ ![](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/pranayganvir)
 
 ## Skills
 - ### Languages
